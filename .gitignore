@@ -2,3 +2,4 @@ node_modules/
 github
 github.pub
 dist
+.idea/
